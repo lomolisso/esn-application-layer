@@ -1,0 +1,3 @@
+[submodule "esn-app-frontend"]
+	path = esn-app-frontend
+	url = https://github.com/lomolisso/esn-app-frontend
